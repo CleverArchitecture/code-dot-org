@@ -147,7 +147,7 @@ gem 'devise_invitable', '~> 1.6.0'
 # Ref: https://github.com/instructure/ims-lti/pull/90
 gem 'ims-lti', github: 'wjordan/ims-lti', ref: 'oauth_051'
 # Ref: https://github.com/Clever/omniauth-clever/pull/7
-gem 'omniauth-clever', '~> 1.2.1', github: 'Clever/omniauth-clever'
+gem 'omniauth-clever', '~> 1.2.2', github: 'Clever/omniauth-clever'
 gem 'omniauth-facebook', '~> 4.0.0'
 gem 'omniauth-google-oauth2', '~> 0.6.0'
 gem 'omniauth-microsoft_v2_auth', github: 'dooly-ai/omniauth-microsoft_v2_auth'
